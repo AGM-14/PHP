@@ -139,6 +139,7 @@ for ($j = 0; $j < 4; $j++) {
         print "Ha ganado el jugador " . ($j + 1) . "<br>";
     }
 }
+var_dump($carton)
 ?>
 
 </body>
